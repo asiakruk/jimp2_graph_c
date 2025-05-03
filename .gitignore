@@ -1,0 +1,26 @@
+# Pliki wykonywalne
+graph_divider
+*.exe
+*.out
+
+# Pliki obiektowe
+*.o
+*.obj
+
+# Pliki tymczasowe
+*.tmp
+*~
+.DS_Store
+
+# Pliki wyjściowe programu
+output.txt
+wynik.txt
+*.txt
+
+# Pliki systemowe
+.vscode/
+.idea/
+cmake-build-*/
+
+# Pliki debugowania
+*.dSYM/
